@@ -2,10 +2,10 @@
 The effect of a quick return, use a custom CoordinatorLayout.Behavior
 
 ---
-##Effect
+## Effect
 ![](http://img.my.csdn.net/uploads/201508/23/1440303929_8040.gif)
 
-##Usage
+## Usage
 Using `CoordinatorLayout` as the root layout, and use custom behaviour in footer
 ```xml
 <android.support.design.widget.CoordinatorLayout
@@ -28,7 +28,7 @@ Using `CoordinatorLayout` as the root layout, and use custom behaviour in footer
 </android.support.design.widget.CoordinatorLayout>
 ```
 ---
-##LICENSE
+## LICENSE
 ```
 The MIT License (MIT)
 
